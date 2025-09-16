@@ -12,4 +12,3 @@ Setiap folder atau file berisi implementasi, analisis, dan laporan terkait topik
 
 ---
 
-## 📂 Struktur Repository
